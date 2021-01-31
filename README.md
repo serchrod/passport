@@ -7,6 +7,9 @@
 <a href="https://packagist.org/packages/laravel/passport"><img src="https://img.shields.io/packagist/l/laravel/passport" alt="License"></a>
 </p>
 
+## Note
+This fork is just for allow the jessengers had compatibility with Passport
+
 ## Introduction
 
 Laravel Passport is an OAuth2 server and API authentication package that is simple and enjoyable to use.
